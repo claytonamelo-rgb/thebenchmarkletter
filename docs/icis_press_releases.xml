@@ -3,7 +3,168 @@
   <channel>
     <title>ICIS - Press Releases</title>
     <link>https://www.icis.com/explore/press-releases/</link>
-    <description>Feed inicial (placeholder). Será substituído automaticamente pelo GitHub Actions na primeira execução.</description>
-    <lastBuildDate>Fri, 24 Jul 2026 00:00:00 +0000</lastBuildDate>
+    <description>Press releases e anúncios da ICIS (gerado via API REST do WordPress).</description>
+    <lastBuildDate>Fri, 24 Jul 2026 14:59:53 +0000</lastBuildDate>
+    
+    <item>
+      <title>ICIS introduces new rLDPE pellet pricing reflecting regulatory driven market evolution</title>
+      <link>https://www.icis.com/explore/press-releases/icis-introduces-new-rldpe-pellet-pricing-reflecting-regulatory-driven-market-evolution/</link>
+      <guid isPermaLink="false">https://www.icis.com/explore/?post_type=press-release&amp;#038;p=49132</guid>
+      <pubDate>Mon, 20 Jul 2026 12:54:30 +0000</pubDate>
+      <description>&lt;p&gt;ICIS introduces new rLDPE pellet pricing to reflect evolving EU regulations and growing demand for recycled plastics in packaging and circular economy markets.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>AkzoNobel CEO Greg Poux-Guillaume is the 2026 ICIS CEO of the Year</title>
+      <link>https://www.icis.com/explore/press-releases/akzonobel-ceo-greg-poux-guillaume-is-the-2026-icis-ceo-of-the-year/</link>
+      <guid isPermaLink="false">https://www.icis.com/explore/?post_type=press-release&amp;#038;p=48971</guid>
+      <pubDate>Tue, 14 Jul 2026 12:13:30 +0000</pubDate>
+      <description>&lt;p&gt;AkzoNobel CEO Greg Poux-Guillaume has been named the 2026 ICIS CEO of the Year, recognised by industry peers for leadership, innovation and outstanding achievement in the global chemical industry.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>ICIS Top 100 Chemical Distributors Ranking for 2026 Unveiled</title>
+      <link>https://www.icis.com/explore/press-releases/icis-top-100-chemical-distributors-ranking-for-2026-unveiled/</link>
+      <guid isPermaLink="false">https://www.icis.com/explore/?post_type=press-release&amp;#038;p=48987</guid>
+      <pubDate>Mon, 15 Jun 2026 12:54:08 +0000</pubDate>
+      <description>&lt;p&gt;Explore the 2026 ICIS Top 100 Chemical Distributors ranking, featuring the world&amp;#8217;s leading chemical distributors, regional leaders and the latest industry insights based on 2025 sales.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>ICIS expands polymer demand insight across global plastics markets</title>
+      <link>https://www.icis.com/explore/press-releases/icis-expands-polymer-demand-insight-across-global-plastics-markets/</link>
+      <guid isPermaLink="false">https://www.icis.com/explore/?post_type=press-release&amp;#038;p=48995</guid>
+      <pubDate>Wed, 10 Jun 2026 14:04:28 +0000</pubDate>
+      <description>&lt;p&gt;ICIS expands polymer demand insights with new data and analysis, helping customers understand global plastics market trends and make better business decisions.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>12th ICIS World Polyolefins Conference 2026</title>
+      <link>https://www.icis.com/explore/press-releases/12th-icis-world-polyolefins-conference-2026/</link>
+      <guid isPermaLink="false">https://www.icis.com/explore/?post_type=press-release&amp;#038;p=49002</guid>
+      <pubDate>Tue, 07 Apr 2026 14:36:00 +0000</pubDate>
+      <description>&lt;p&gt;Join the 2026 ICIS World Polyolefins Conference as industry leaders explore Europe’s polyolefins outlook, market volatility, supply and demand trends.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>ICIS Launches Iberian and Italian rPET Pricing</title>
+      <link>https://www.icis.com/explore/press-releases/icis-launches-iberian-and-italian-rpet-pricing/</link>
+      <guid isPermaLink="false">https://www.icis.com/explore/?post_type=press-release&amp;#038;p=49011</guid>
+      <pubDate>Wed, 11 Mar 2026 15:07:00 +0000</pubDate>
+      <description>&lt;p&gt;ICIS expands its recycled PET market coverage with new Iberian and Italian rPET flake price assessments, improving transparency across European markets.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>ICIS and ICE Introduce Base Oils Futures</title>
+      <link>https://www.icis.com/explore/press-releases/icis-ice-introduce-baseoils-futures/</link>
+      <guid isPermaLink="false">https://www.icis.com/explore/?post_type=press-release&amp;#038;p=47581</guid>
+      <pubDate>Tue, 13 Jan 2026 09:57:13 +0000</pubDate>
+      <description>&lt;p&gt;ICIS and ICE launch exchange-backed base oils futures using ICIS benchmarks, bringing new risk management tools to the market.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>2026 ICIS Top 40 Power Players winner</title>
+      <link>https://www.icis.com/explore/press-releases/power-players-winner-2026/</link>
+      <guid isPermaLink="false">https://www.icis.com/explore/?post_type=press-release&amp;#038;p=47641</guid>
+      <pubDate>Mon, 12 Jan 2026 11:00:00 +0000</pubDate>
+      <description>&lt;p&gt;ICIS Top 40 Power Players 2026 ranks global chemical leaders, with ADNOC CEO Dr Sultan Ahmed Al Jaber named #1&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>ICIS meets IOSCO’s PRA Principles for the 13th consecutive year</title>
+      <link>https://www.icis.com/explore/press-releases/icis-passes-iosco-audit-2025/</link>
+      <guid isPermaLink="false">https://www.icis.com/explore/?post_type=press-release&amp;#038;p=46689</guid>
+      <pubDate>Mon, 17 Nov 2025 10:00:00 +0000</pubDate>
+      <description>&lt;p&gt;ICIS passes the IOSCO audit for the 13th year, reaffirming its commitment to transparent, industry-leading commodity price methodology.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>ICIS and Plan Grow Do announce exclusive training programme to drive sales evolution in a changing petrochemical landscape</title>
+      <link>https://www.icis.com/explore/press-releases/icis-pgd-training-programme-2025/</link>
+      <guid isPermaLink="false">https://www.icis.com/explore/?post_type=press-release&amp;#038;p=46382</guid>
+      <pubDate>Mon, 27 Oct 2025 08:00:00 +0000</pubDate>
+      <description>&lt;p&gt;ICIS and PGD have partnered to create new exclusive sales workshops at ICIS events&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>ICIS and CPCIF Unveil New Study Revealing Wide-Ranging Impacts of EU Circularity Regulation on Global Recycled Plastics Demand</title>
+      <link>https://www.icis.com/explore/press-releases/icis-and-cpcif-unveil-new-study-2025/</link>
+      <guid isPermaLink="false">https://www.icis.com/explore/?post_type=press-release&amp;#038;p=46328</guid>
+      <pubDate>Wed, 22 Oct 2025 08:00:00 +0000</pubDate>
+      <description>&lt;p&gt;A new joint study by ICIS and CPCIF explores the effects of EU regulatory changes on China’s manufacturing sector.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>ICIS Top 100 Chemical companies 2025</title>
+      <link>https://www.icis.com/explore/press-releases/icis-top-100-chemical-companies-2025/</link>
+      <guid isPermaLink="false">https://www.icis.com/explore/?post_type=press-release&amp;#038;p=45949</guid>
+      <pubDate>Mon, 15 Sep 2025 09:25:26 +0000</pubDate>
+      <description>&lt;p&gt;Discover the latest ICIS Top 100 Chemical Companies ranking, with insights into the industry’s biggest players and global market leaders.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>ADNOC CEO Dr Sultan Al Jaber is the 2025 ICIS CEO of the Year</title>
+      <link>https://www.icis.com/explore/press-releases/2025-ceo-of-the-year/</link>
+      <guid isPermaLink="false">https://www.icis.com/explore/?post_type=press-release&amp;#038;p=45746</guid>
+      <pubDate>Tue, 02 Sep 2025 11:00:00 +0000</pubDate>
+      <description>&lt;p&gt;ICIS names ADNOC CEO Dr. Sultan Al Jaber as CEO of the Year 2025, recognising his leadership in global chemicals and energy.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>2025 ICIS Top 100 Chemical Distributors Ranking Revealed</title>
+      <link>https://www.icis.com/explore/press-releases/2025-icis-top-100-chemical-distributors-ranking-revealed/</link>
+      <guid isPermaLink="false">https://www.icis.com/explore/?post_type=press-release&amp;#038;p=44677</guid>
+      <pubDate>Mon, 16 Jun 2025 18:01:29 +0000</pubDate>
+      <description>&lt;p&gt;ICIS unveils the 2025 Top 100 Chemical Distributors, spotlighting global leaders and key trends in the chemical supply chain.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>ICIS Announces New Additions to Leadership Team</title>
+      <link>https://www.icis.com/explore/press-releases/icis-announces-new-additions-to-leadership-team/</link>
+      <guid isPermaLink="false">https://www.icis.com/explore/?post_type=press-release&amp;#038;p=44685</guid>
+      <pubDate>Sun, 15 Jun 2025 09:17:11 +0000</pubDate>
+      <description>&lt;p&gt;ICIS announces three key executive appointments to strengthen leadership and drive its global commodity intelligence strategy.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>2025 Top 40 Power Players Winner</title>
+      <link>https://www.icis.com/explore/press-releases/power-players-winner-2025/</link>
+      <guid isPermaLink="false">https://www.icis.com/explore/?post_type=press-release&amp;#038;p=42323</guid>
+      <pubDate>Tue, 14 Jan 2025 12:42:38 +0000</pubDate>
+      <description>&lt;p&gt;ICIS has named its 2025 Top 40 Power Player winner, recognising the industry leader driving major impact across the global chemical sector.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>ICIS Innovation Awards 2024 winners celebrated</title>
+      <link>https://www.icis.com/explore/press-releases/innovation-award-winner/</link>
+      <guid isPermaLink="false">https://www.icis.com/explore/?post_type=press-release&amp;#038;p=41912</guid>
+      <pubDate>Mon, 11 Nov 2024 09:43:07 +0000</pubDate>
+      <description>&lt;p&gt;Linde, BASF and SABIC have won the ICIS Innovation Awards 2024 for their electric cracker furnace, the world’s first to be built at demonstration scale&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>ICIS meets IOSCO’s PRA Principles for the 12th consecutive year</title>
+      <link>https://www.icis.com/explore/press-releases/icis-meets-ioscos-pra-principles-for-the-12th-consecutive-year/</link>
+      <guid isPermaLink="false">https://www.icis.com/explore/?post_type=press-release&amp;#038;p=41671</guid>
+      <pubDate>Fri, 25 Oct 2024 16:26:20 +0000</pubDate>
+      <description>&lt;p&gt;ICIS has completed its independent assurance review for the 12th consecutive year, confirming the strength of its price reporting services.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>ICIS Announces Global Launch of Ask ICIS</title>
+      <link>https://www.icis.com/explore/press-releases/ask-icis-generative-assistant-global-launch/</link>
+      <guid isPermaLink="false">https://www.icis.com/explore/?post_type=press-release&amp;#038;p=41076</guid>
+      <pubDate>Tue, 08 Oct 2024 11:00:00 +0000</pubDate>
+      <description>&lt;p&gt;ICIS launches Ask ICIS, a generative AI assistant giving subscribers fast access to leading energy and chemicals market intelligence.&lt;/p&gt;
+</description>
+    </item>
+    <item>
+      <title>The ICIS Top 100 Chemical Companies unveiled</title>
+      <link>https://www.icis.com/explore/press-releases/the-icis-top-100-chemical-companies-unveiled/</link>
+      <guid isPermaLink="false">https://www.icis.com/explore/?post_type=press-release&amp;#038;p=40729</guid>
+      <pubDate>Mon, 16 Sep 2024 10:35:14 +0000</pubDate>
+      <description>&lt;p&gt;ICIS has announced the ICIS Top 100 Chemical Companies, a global ranking of the leading chemical producers worldwide based on 2023 sales.&lt;/p&gt;
+</description>
+    </item>
   </channel>
 </rss>
