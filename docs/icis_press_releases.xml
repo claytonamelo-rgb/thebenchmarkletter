@@ -4,8 +4,16 @@
     <title>ICIS - Press Releases</title>
     <link>https://www.icis.com/explore/press-releases/</link>
     <description>Press releases e anúncios da ICIS (gerado via API REST do WordPress).</description>
-    <lastBuildDate>Mon, 14 Sep 2026 11:49:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 17:42:26 +0000</lastBuildDate>
     
+    <item>
+      <title>ICIS Top 100 Chemical Companies ranking unveiled with BASF back on top</title>
+      <link>https://www.icis.com/explore/press-releases/icis-top-100-chemical-companies-2026/</link>
+      <guid isPermaLink="false">https://www.icis.com/explore/?post_type=press-release&amp;#038;p=49572</guid>
+      <pubDate>Mon, 14 Sep 2026 14:38:43 +0000</pubDate>
+      <description>&lt;p&gt;Explore the ICIS Top 100 Chemical Companies 2026 ranking, with BASF back at No. 1, followed by Sinopec, ExxonMobil, PetroChina and Dow.&lt;/p&gt;
+</description>
+    </item>
     <item>
       <title>ICIS introduces new rLDPE pellet pricing reflecting regulatory driven market evolution</title>
       <link>https://www.icis.com/explore/press-releases/icis-introduces-new-rldpe-pellet-pricing-reflecting-regulatory-driven-market-evolution/</link>
@@ -156,14 +164,6 @@
       <guid isPermaLink="false">https://www.icis.com/explore/?post_type=press-release&amp;#038;p=41076</guid>
       <pubDate>Tue, 08 Oct 2024 11:00:00 +0000</pubDate>
       <description>&lt;p&gt;ICIS launches Ask ICIS, a generative AI assistant giving subscribers fast access to leading energy and chemicals market intelligence.&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>The ICIS Top 100 Chemical Companies unveiled</title>
-      <link>https://www.icis.com/explore/press-releases/the-icis-top-100-chemical-companies-unveiled/</link>
-      <guid isPermaLink="false">https://www.icis.com/explore/?post_type=press-release&amp;#038;p=40729</guid>
-      <pubDate>Mon, 16 Sep 2024 10:35:14 +0000</pubDate>
-      <description>&lt;p&gt;ICIS has announced the ICIS Top 100 Chemical Companies, a global ranking of the leading chemical producers worldwide based on 2023 sales.&lt;/p&gt;
 </description>
     </item>
   </channel>
